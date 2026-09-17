@@ -21,14 +21,16 @@
 
 ```yaml
 name: Rasanga Bawanthi
-role: Software Engineering Student & Full Stack Developer
+role: Web Developer & Aspiring Software Engineer
+studying_at: Sri Lanka Institute of Information Technology (SLIIT)
 location: Sri Lanka 🇱🇰
 currently_learning: Cloud Architecture & System Design
 looking_for: Internships, Collaborations, Open-Source Contributions
 fun_fact: I turn coffee into code ☕ → 💻
 ```
 
-- 🎓 Pursuing a degree in **Software Engineering**
+- 🎓 Studying **Software Engineering** at **SLIIT**
+- 💻 I prefer building **modern web applications** — frontend to backend
 - 🌱 Deepening my knowledge of **cloud architecture & system design**
 - 💡 Passionate about solving real-world problems through clean, scalable code
 - 🤝 Open to **internships**, **collaborations**, and **open-source contributions**
@@ -81,22 +83,21 @@ fun_fact: I turn coffee into code ☕ → 💻
 
 ---
 
-### 📌 Pinned Projects
+### 📌 Featured Projects
 
 <div align="center">
 
-<!--
-  Replace OWNER/REPO below with your actual repo names.
-  This grid auto-pulls live stats for each pinned repo.
--->
-<a href="https://github.com/Rasanga2002/REPO_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rasanga2002&repo=REPO_ONE&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Rasanga2002/smart-study-planner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rasanga2002&repo=smart-study-planner&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/Rasanga2002/REPO_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rasanga2002&repo=REPO_TWO&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/HeshanJayasekara18/Tourist-Travel-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HeshanJayasekara18&repo=Tourist-Travel-Management-System&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
+
+- 📱 **[Smart Study Planner](https://github.com/Rasanga2002/smart-study-planner)** — A Kotlin-based mobile app for planning and organizing study tasks
+- 🌍 **[Tourist Travel Management System](https://github.com/HeshanJayasekara18/Tourist-Travel-Management-System)** — A full-stack MERN tour package booking platform (team project)
 
 ---
 
