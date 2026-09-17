@@ -1,120 +1,190 @@
-<div align="center">
+# 👋 Hi, I'm Rasanga Bawanthi
 
-<!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rasanga+%F0%9F%91%8B;Software+Engineering+Student;Full+Stack+Developer;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+### `Software Engineering Undergraduate` • `Full-Stack Developer` • `Tech Enthusiast`
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+ideas+into+software+%F0%9F%92%BB;Full-Stack+Web+Developer+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%8C%B1" />
+</p>
 
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=Rasanga2002&color=6366f1&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/Rasanga2002?label=Followers&style=flat-square&color=6366f1)](https://github.com/Rasanga2002)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a passionate **Software Engineering student** who loves building clean, scalable, and impactful software — from polished frontends to robust backends and mobile experiences.
-
-- 🎓 Currently pursuing a degree in **Software Engineering**
-- 🌱 Always learning — currently deepening knowledge in **cloud architecture & system design**
-- 💡 I enjoy solving real-world problems through code
-- 🤝 Open to **collaborations**, **internships**, and **open-source contributions**
-- 📍 Based in **Sri Lanka 🇱🇰**
+<p align="center">
+  <a href="https://github.com/Rasanga2002">
+    <img src="https://img.shields.io/github/followers/Rasanga2002?label=Followers&style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/Rasanga2002?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 Education
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🔧 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+**BSc (Hons) in Information Technology – Software Engineering**
+Sri Lanka Institute of Information Technology (SLIIT) 🇱🇰
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rasanga2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasanga2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+### Frontend
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
 
-<div align="center">
+</td>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rasanga2002&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<td valign="top" width="50%">
 
-</div>
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+</td>
+
+<td valign="top">
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+</td>
+
+<td valign="top">
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Featured Projects
 
-<div align="center">
+### 🚗 Ride Dispatch & Transportation Management System
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rasanga2002&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+A full-stack transportation management platform for handling bookings, dispatch, drivers, vehicles, fleet operators, pricing, invoices, and payments.
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Rasanga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rasanga2002&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+`Next.js` `React` `Tailwind CSS` `PostgreSQL` `AWS` `REST API`
 
 ---
 
-## 🌐 Connect With Me
+### 💼 JobLoom
 
-<div align="center">
+A full-stack job management platform with separate workflows for **Job Seekers, Employers, and Administrators**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasanga-bawanthi-99853133b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasangabawanthi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rasanga2002)
-
-</div>
+`React` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary`
 
 ---
 
-<div align="center">
+### 🏥 Curex Smart Healthcare
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+A healthcare management platform developed with a modern frontend and Spring Boot backend.
 
-⭐ **If you find my work helpful, consider giving it a star!** ⭐
+`React` `Spring Boot` `MySQL` `REST API`
 
-</div>
+---
+
+### 📱 DutyCall
+
+A mobile application designed to simplify citizen-to-police reporting with multilingual support, voice input, maps, and report status tracking.
+
+`React Native` `Expo` `TypeScript` `Maps` `i18n`
+
+---
+
+## 🧩 What I Build
+
+```text
+▸ Responsive Web Applications
+▸ RESTful APIs
+▸ Full-Stack Applications
+▸ Database-Driven Systems
+▸ Mobile Applications
+▸ Authentication & Authorization
+▸ Cloud-Based Applications
+▸ Secure Software Solutions
+```
+
+---
+
+## 🌱 Currently Exploring
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,react,docker,kubernetes,aws,azure" />
+</p>
+
+**Next.js** • **React Native** • **Docker** • **Kubernetes** • **AWS** • **Azure**
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rasanga2002&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasanga2002&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rasanga2002&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Rasanga2002">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rasanga-bawanthi-99853133b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Learn • Build • Improve • Repeat ✨</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile!</i> 👋
+</p>
